@@ -2,6 +2,12 @@
 
 
 <?php
+$client_username = "";
+$client_email = "";
+
+
+
+
 $servername = "WEBHOST Address";
 $username = "im as straight as a";
 $password = "circle";
