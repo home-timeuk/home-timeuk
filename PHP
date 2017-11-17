@@ -1,3 +1,6 @@
+//Author @Amin
+
+
 <?php
 $servername = "localhost";
 $username = "username";
